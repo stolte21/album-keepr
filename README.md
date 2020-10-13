@@ -12,6 +12,8 @@ This is a personal project that uses the Spotify API to display a user's saved a
 View the project at http://albumkeepr.com/
 
 ## Screenshots
-![Example 1](https://imgur.com/j5V5tVQ.png)
-![Example 2](https://imgur.com/nDhXaiy.png)
-![Example 3](https://imgur.com/i5spVqD.png)
+![Example 1](https://imgur.com/j5V5tVQ.png)  
+
+![Example 2](https://imgur.com/nDhXaiy.png)  
+
+![Example 3](https://imgur.com/i5spVqD.png)  
